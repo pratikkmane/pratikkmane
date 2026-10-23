@@ -21,11 +21,13 @@
 <br/>
 <br/>
 
-### Selected work
+### Popular repositories
 
+<!-- REPOS:START -->
 <img width="49%" src="./assets/card-hospital.svg" alt="Indiana Hospital Capacity Tracker" />&nbsp;<img width="49%" src="./assets/card-ames.svg" alt="Ames Housing Market Intelligence" />
 <br/>
 <img width="49%" src="./assets/card-caption.svg" alt="AI Image Captioning" />&nbsp;<img width="49%" src="./assets/card-student.svg" alt="Student Performance Prediction" />
+<!-- REPOS:END -->
 
 <br/>
 
