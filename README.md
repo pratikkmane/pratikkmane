@@ -10,8 +10,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pratikmane316/"><img src="./assets/btn-linkedin.svg" height="46" alt="Connect on LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:pratikkmanee@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Send an email" /></a>
+<a href="https://www.linkedin.com/in/pratikmane316/"><img src="./assets/button-linkedin.svg" height="46" alt="Connect on LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:pratikkmanee@gmail.com"><img src="./assets/button-email.svg" height="46" alt="Send an email" /></a>
 
 <br/>
 <br/>
