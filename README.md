@@ -1,4 +1,4 @@
-<img width="100%" src="./banner.svg" alt="Pratik Mane, Data and Software Engineer" />
+<img width="100%" src="./assets/banner.svg" alt="Pratik Mane, Data and Software Engineer" />
 
 <div align="center">
 
@@ -6,8 +6,8 @@ I build data pipelines and backend systems, and I like making messy data trustwo
 <br/>
 M.S. Data Science at Indiana University · M.S. Computer Science at Purdue
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikmane316/)
-[![Email](https://img.shields.io/badge/Email-Contact-4f46e5?style=flat-square&logo=gmail&logoColor=white)](mailto:pratikkmanee@gmail.com)
+<a href="https://www.linkedin.com/in/pratikmane316/"><img src="./assets/btn-linkedin.svg" height="44" alt="Connect on LinkedIn" /></a>&nbsp;
+<a href="mailto:pratikkmanee@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Send an email" /></a>
 
 </div>
 
