@@ -16,11 +16,6 @@
 <br/>
 <br/>
 
-<img width="100%" src="./assets/now.svg" alt="Currently: Data Engineer at COMET Lab. Finishing M.S. in Data Science at Indiana University, Dec 2026." />
-
-<br/>
-<br/>
-
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=python,r,cpp,java,js,cs,postgres,mysql,mongodb,gcp,aws,docker,react,nextjs,vue,nodejs,fastapi,git&theme=dark&perline=9" alt="Tools" />
