@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0f172a,100:4f46e5&text=Pratik%20Mane&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Data%20%26%20Software%20Engineer&descAlignY=68&descSize=16" alt="Pratik Mane" />
+<img width="100%" src="./banner.svg" alt="Pratik Mane, Data and Software Engineer" />
 
 <div align="center">
 
@@ -59,9 +59,7 @@ Streamlit app that flags at-risk students early.<br/>
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=python,r,cpp,java,js,cs&theme=dark)
-![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,gcp,aws,docker&theme=dark)
-![Web](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,fastapi,git&theme=dark)
+<img src="https://skillicons.dev/icons?i=python,r,cpp,java,js,cs,postgres,mysql,mongodb,gcp,aws,docker,react,nextjs,vue,nodejs,fastapi,git&theme=dark&perline=9" alt="Tools" />
 
 </div>
 
