@@ -2,70 +2,39 @@
 
 <div align="center">
 
-I build data pipelines and backend systems, and I like making messy data trustworthy.
 <br/>
-M.S. Data Science at Indiana University · M.S. Computer Science at Purdue
 
-<a href="https://www.linkedin.com/in/pratikmane316/"><img src="./assets/btn-linkedin.svg" height="44" alt="Connect on LinkedIn" /></a>&nbsp;
-<a href="mailto:pratikkmanee@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Send an email" /></a>
+**I build data pipelines and backend systems, and I like making messy data trustworthy.**
 
-</div>
+<sub>M.S. Data Science · Indiana University &nbsp;|&nbsp; M.S. Computer Science · Purdue University</sub>
 
 <br/>
 
-## Now
+<a href="https://www.linkedin.com/in/pratikmane316/"><img src="./assets/btn-linkedin.svg" height="46" alt="Connect on LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:pratikkmanee@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Send an email" /></a>
 
-- 🔬 **Data Engineer** at COMET Lab, working with FBI crime data and U.S. Census estimates for Indiana
-- 🎓 Finishing my M.S. in Data Science (Dec 2026)
+<br/>
+<br/>
 
-## Selected work
+<img width="100%" src="./assets/now.svg" alt="Currently: Data Engineer at COMET Lab. Finishing M.S. in Data Science at Indiana University, Dec 2026." />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
+<br/>
 
-**🏥 Indiana Hospital Capacity Tracker**<br/>
-Data pipeline with CI/CD that runs dbt tests on every push.<br/>
-<sub>`dbt` `GitHub Actions`</sub>
+### Selected work
 
-</td>
-<td width="50%" valign="top">
+<img width="49%" src="./assets/card-hospital.svg" alt="Indiana Hospital Capacity Tracker" />&nbsp;<img width="49%" src="./assets/card-ames.svg" alt="Ames Housing Market Intelligence" />
+<br/>
+<img width="49%" src="./assets/card-caption.svg" alt="AI Image Captioning" />&nbsp;<img width="49%" src="./assets/card-student.svg" alt="Student Performance Prediction" />
 
-**🏠 Ames Housing Market Intelligence**<br/>
-What drives home prices, and when to buy or sell.<br/>
-<sub>`R` `Quarto`</sub>
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🖼️ AI Image Captioning**<br/>
-CNN feature extraction with BLIP for natural-language captions.<br/>
-<sub>`Python` `CNN` `BLIP`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**📚 Student Performance Prediction**<br/>
-Streamlit app that flags at-risk students early.<br/>
-<sub>`Python` `Streamlit`</sub>
-
-</td>
-</tr>
-</table>
-
-## Tools I use
-
-<div align="center">
+### Tools
 
 <img src="https://skillicons.dev/icons?i=python,r,cpp,java,js,cs,postgres,mysql,mongodb,gcp,aws,docker,react,nextjs,vue,nodejs,fastapi,git&theme=dark&perline=9" alt="Tools" />
 
-</div>
-
 <br/>
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/pratikkmane">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pratikkmane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=cbd5e1" alt="GitHub stats" />
