@@ -24,9 +24,9 @@
 ### Popular repositories
 
 <!-- REPOS:START -->
-<img width="49%" src="./assets/card-hospital.svg" alt="Indiana Hospital Capacity Tracker" />&nbsp;<img width="49%" src="./assets/card-ames.svg" alt="Ames Housing Market Intelligence" />
+<a href="https://github.com/pratikkmane/hospital-capacity-tracker"><img width="49%" src="./assets/repo-1.svg" alt="hospital-capacity-tracker" /></a>&nbsp;<a href="https://github.com/pratikkmane/dsci515-neural-option-pricing"><img width="49%" src="./assets/repo-2.svg" alt="dsci515-neural-option-pricing" /></a>
 <br/>
-<img width="49%" src="./assets/card-caption.svg" alt="AI Image Captioning" />&nbsp;<img width="49%" src="./assets/card-student.svg" alt="Student Performance Prediction" />
+<a href="https://github.com/pratikkmane/handpilot"><img width="49%" src="./assets/repo-3.svg" alt="handpilot" /></a>&nbsp;<a href="https://github.com/pratikkmane/hand-tracking-robot-teleop"><img width="49%" src="./assets/repo-4.svg" alt="hand-tracking-robot-teleop" /></a>
 <!-- REPOS:END -->
 
 <br/>
